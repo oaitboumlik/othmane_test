@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+requests
+streamlit
+supabase
+pandas
+requests
+docker
+distro
